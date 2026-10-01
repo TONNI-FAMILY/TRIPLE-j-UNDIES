@@ -1,0 +1,6 @@
+{
+  "name": "Triple J Undies",
+  "description": "Intimate comfort crafted for real life. Premium breathable organic cotton, second-skin modal, and seamless everyday essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
